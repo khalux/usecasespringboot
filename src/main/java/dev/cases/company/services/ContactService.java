@@ -9,6 +9,11 @@ import org.springframework.stereotype.Service;
 import dev.cases.company.models.Contact;
 import dev.cases.company.repositories.ContactRepository;
 
+/**
+ * @Created 05/05/2024
+ * @project CaseJavaCompanyApplication
+ * @Author K.ABIDA
+ */
 @Service
 public class ContactService {
 	@Autowired

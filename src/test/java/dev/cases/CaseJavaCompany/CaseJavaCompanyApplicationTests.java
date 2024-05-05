@@ -7,6 +7,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import dev.cases.company.CaseJavaCompanyApplication;
 
+/**
+ * @Created 05/05/2024
+ * @project CaseJavaCompanyApplication
+ * @Author K.ABIDA
+ */
+
 @SpringBootTest(classes = CaseJavaCompanyApplication.class)
 class CaseJavaCompanyApplicationTests {
 

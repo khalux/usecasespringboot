@@ -1,7 +1,6 @@
 package dev.cases.company.models;
 
 import jakarta.persistence.*;
-import jakarta.validation.ConstraintViolationException;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
 
@@ -14,6 +13,11 @@ import dev.cases.company.common.Vars;
 
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
+/**
+ * @Created 05/05/2024
+ * @project CaseJavaCompanyApplication
+ * @Author K.ABIDA
+ */
 @Entity
 @Table(name = "contacts")
 @JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class, property = "id")

@@ -10,7 +10,11 @@ import dev.cases.company.models.Company;
 import dev.cases.company.models.Contact;
 import dev.cases.company.repositories.CompanyRepository;
 import dev.cases.company.repositories.ContactRepository;
-
+/**
+ * @Created 05/05/2024
+ * @project CaseJavaCompanyApplication
+ * @Author K.ABIDA
+ */
 @Service
 public class CompanyService {
 	@Autowired

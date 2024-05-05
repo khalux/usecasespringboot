@@ -10,6 +10,11 @@ import dev.cases.company.services.CompanyService;
 import java.util.List;
 import java.util.Optional;
 
+/**
+ * @Created 05/05/2024
+ * @project CaseJavaCompanyApplication
+ * @Author K.ABIDA
+ */
 @RestController
 @RequestMapping("/api/companies")
 public class CompanyController {

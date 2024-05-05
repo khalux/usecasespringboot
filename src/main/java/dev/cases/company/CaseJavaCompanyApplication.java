@@ -8,6 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version 0.0.0
  * 
  * For a test Case Java
+ * 
+ * 05/05/2024
  */
 @SpringBootApplication
 public class CaseJavaCompanyApplication {

@@ -27,7 +27,7 @@ Prerequisites
 
 What you need to install the software:
 
-- Java JDK 11..17
+- Java JDK 17
 - Maven
 - Your favorite IDE (Eclipse, IntelliJ, etc.)
 

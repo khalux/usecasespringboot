@@ -47,3 +47,6 @@ cd your-repository
 
 **API Documentation**
 After running the application, you can access the Swagger UI at http://localhost:8081/swagger-ui.html to interact with the API.
+
+**H2 DB Console**
+http://localhost:8081/h2-console
